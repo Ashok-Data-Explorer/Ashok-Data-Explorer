@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm ASHOK CHINNAMARLA </h1>
 
 <h3 align="center">A passionate DATA ANALYTICS  from India</h3>
-<img align="right" alt="coding" width="300" src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708335810/Github/animated.gif">
+<img align="right" alt="coding" width="300" src="https://www.lovefordata.com/images/Credit-Scoring.gif">
 
 
 
